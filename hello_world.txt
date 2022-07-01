@@ -1,1 +1,3 @@
 Working to commit this file to my github repo.
+
+Wanting to see how git works with commits in vsc
